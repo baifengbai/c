@@ -25,4 +25,5 @@ int main(void)
 	cout<<&one_reference<<endl;
 
 	return 0;
+
 }
